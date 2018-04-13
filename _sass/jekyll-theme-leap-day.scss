@@ -267,7 +267,8 @@ header {
     top:7px;
     display: block;
     background: url(../images/pg-logo-36x36.svg);
-    background-size: 80%;
+    background-size: contain;
+    background-repeat: no-repeat;
   }
 }
 
