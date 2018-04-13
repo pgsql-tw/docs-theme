@@ -2,7 +2,7 @@
 layout: default
 ---
 
-中文字型
+中文字型xxxxx0123456789
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
